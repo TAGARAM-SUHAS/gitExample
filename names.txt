@@ -1,1 +1,1 @@
-boss,Tagaram,Tagaram,Suhas
+boss,tagaram,Tagaram,Suhas
